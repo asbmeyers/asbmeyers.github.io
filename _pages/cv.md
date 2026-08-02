@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+University of Minnesota - Twin Cities
+M.S., Computer Science - Expected May 2027
+GPA: 3.933
+Relevant Coursework: VR and 3D Interaction, Computer Graphics, Applied Parallel Programming, Data Mining, Robotics, Software Engineering
 
-Work experience
+B.A. Computer Science, Minor in Statistics - May 2025
+GPA: 3.933
+Graduated with Honors (Summa Cum Laude)
+Relevant Coursework: Formal Languages & Automata Theory, Interactive Graphics and Games, Theory of Statistics, Regression and Correlated Data
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2025 Undergraduate Honors Thesis: Cybersickness as Affected by Self-Motion Perception Instructions
+  * Thesis Advisor: Victoria Interrante
+  * Conducted a study of cybersickness and spatial awareness in users of identical VR applications, provided alternative instructions of self-based motion perception and environment-based motion perception.
+  * Independently conducted most portions of the study, including designing the parameters of the study, creating the VR application, creating materials for IRB review, advertising and gaining consent of participants, conducting participant sessions, and analyzing results.
+  * Instruction was shown to significantly affect user's perception of motion, even in identical VR applications.
+  * Further research was recommended to investigate effects of different types of motion perception.
   
 Skills
 ======
