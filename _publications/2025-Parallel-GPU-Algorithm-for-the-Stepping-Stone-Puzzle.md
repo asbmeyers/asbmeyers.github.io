@@ -6,7 +6,7 @@ permalink: /projects/2025-Parallel-GPU-Algorithm-for-the-Stepping-Stone-Puzzle
 excerpt: >
         University of Minnesota - Twin Cities, Fall 2025<br>
         Applied Parallel Programming (EE 5351) Final Project<br>
-        Instructor: John Sartor<br>
+        Instructor: John Sartori<br>
         Co-author: Peter Weiblen
 ---
 
@@ -14,7 +14,7 @@ University of Minnesota - Twin Cities, Fall 2025
 
 Applied Parallel Programming (EE 5351) Final Project
 
-Instructor: John Sartor
+Instructor: John Sartori
 
 Co-author: Peter Weiblen
 
