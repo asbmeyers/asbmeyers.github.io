@@ -90,6 +90,13 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  research-project:
+    title: 'Academic Research Projects'
+  technical-project:
+    title: 'Academic Technical Projects'
+  other-project:
+    title: 'Other Technical Projects'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

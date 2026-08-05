@@ -1,8 +1,8 @@
 ---
-title: "Cybersickness as Affected by Self-Motion Perception Instructions"
+title: "Virtual Reality Sign Language Calculator"
 collection: publications
-category: manuscripts
-permalink: /projects/2025-Cybersickness-as-Affected-by-Self-Motion-Perception-Instructions
+category: technical-project
+permalink: /projects/2024-VR-Sign-Language-Calculator
 excerpt: >
         University of Minnesota - Twin Cities, Fall 2024<br>
         Virtual Reality & 3D Interaction (CSCI 5619) Final Project<br>

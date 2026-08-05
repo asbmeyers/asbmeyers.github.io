@@ -1,7 +1,7 @@
 ---
 title: "Cybersickness as Affected by Self-Motion Perception Instructions"
 collection: publications
-category: manuscripts
+category: research-project
 permalink: /projects/2025-Cybersickness-as-Affected-by-Self-Motion-Perception-Instructions
 excerpt: >
         University of Minnesota - Twin Cities, Spring 2025<br>
@@ -9,9 +9,11 @@ excerpt: >
         Advisor: Victoria Interrante
 ---
 
-University of Minnesota - Twin Cities, Spring 2025 
-Undergraduate Honors Thesis 
-Advisor: Victoria Interrante 
+University of Minnesota - Twin Cities, Spring 2025
+
+Undergraduate Honors Thesis
+
+Advisor: Victoria Interrante
 
 # Project Summary
 
@@ -45,5 +47,5 @@ Participants in the environment-based group reported significantly stronger agre
 * Meta Quest 3
 * C#
 
-# [Download Full Report](https://academicpages.github.io/files/Cybersickness_as_Affected_by_Self-Motion_Perception_Instructions.pdf)
+# [Download Full Report](https://asbmeyers.github.io/files/Cybersickness_as_Affected_by_Self-Motion_Perception_Instructions.pdf)
 
