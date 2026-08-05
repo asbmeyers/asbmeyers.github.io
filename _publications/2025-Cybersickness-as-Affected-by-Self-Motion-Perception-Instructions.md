@@ -7,7 +7,6 @@ excerpt: >
         University of Minnesota - Twin Cities, Spring 2025<br>
         Undergraduate Honors Thesis<br>
         Advisor: Victoria Interrante
-paperurl: 'https://academicpages.github.io/files/Cybersickness_as_Affected_by_Self-Motion_Perception_Instructions.pdf'
 ---
 
 University of Minnesota - Twin Cities, Spring 2025 
@@ -45,4 +44,6 @@ Participants in the environment-based group reported significantly stronger agre
 * Unity
 * Meta Quest 3
 * C#
+
+# [Download Full Report](https://academicpages.github.io/files/Cybersickness_as_Affected_by_Self-Motion_Perception_Instructions.pdf)
 
