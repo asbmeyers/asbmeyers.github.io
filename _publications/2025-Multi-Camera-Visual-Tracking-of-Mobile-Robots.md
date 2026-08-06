@@ -20,7 +20,7 @@ Co-authors: Max LaLonde, Alexandra Postolaki
 
 # Project Summary
 
-A multi-camera surveillance system was developed to seamlessly track a mobile agent throughout a complex 3D environment. A Unity simulation was created, in which a mobile agent traveled random paths, while camera units dispersed throughout the environment identified and tracked the mobile agent, using the YOLOv8 algorithm. Each camera agent communicates with a central control system, coordinating tracking between camera units, allowing seamless transition of primary tracking responsibilities between nearby camera units. This system proved functional in certain conditions, but had many limitations due to lack of time and data for further training of the object detection model, and a need for further optimizations to the central control system. With these additional improvements, this system may prove useful in real-world surveillance applications, where targets may need to be tracked throughout a complex environment and across multiple fields of view.
+We developed a prototype multi-camera monitoring system in Unity that used YOLOv8-based object detection to identify a simulated mobile agent and coordinate observations across multiple virtual cameras. The project successfully demonstrated communication between Unity and Python-based detection pipelines and basic multi-camera coordination. However, the system remained a proof-of-concept. Cameras did not autonomously reorient to maintain visual contact with the target, and limitations in the object detection model prevented reliable tracking performance in complex scenarios.
 
 # Personal Contributions
 * Led development of Unity simulation environment and agent behavior systems
@@ -42,5 +42,5 @@ A multi-camera surveillance system was developed to seamlessly track a mobile ag
 * Python
 * YOLO
 
-# [Download Full Report](https://asbmeyers.github.io/files/Surveillance_Using_Intelligent_Agents_Multi-Camera_Visual_Tracking_of_Mobile_Robots.pdf)
+# Repository //TODO: Add Repository
 
