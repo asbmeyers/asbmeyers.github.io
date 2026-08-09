@@ -7,7 +7,6 @@ venue: "University of Minnesota - Twin Cities, Computer Science Department"
 date: 2025-09-01
 location: "Minneapolis, USA"
 ---
-
 Instructor: Carl Sturtivant
 
 As a graduate teaching assistant, I led weekly discussion sections with independently designed presentations and lesson plans, reviewing the information taught in the previous weeks' lectures, as well as showcasing answers to homework problems. 
