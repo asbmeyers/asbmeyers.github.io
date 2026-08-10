@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This website is still under construction. Please ignore all current content.
-
 # About Me
 
 I am a graduate student at the University of Minnesota - Twin Cities, where I am studying for an M.S. in Computer Science, with an expected graduation in May 2027. In May 2025, I received a B.A. in Computer Science from the University of Minnesota - Twin Cities, where I graduated with honors (Summa Cum Laude) with my undergraduate honors thesis: <i>Cybersickness as Affected by Self-Motion Perception Instructions</i>.
