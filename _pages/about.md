@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
 
 I am a graduate student at the University of Minnesota - Twin Cities, where I am studying for an M.S. in Computer Science, with an expected graduation in May 2027. In May 2025, I received a B.A. in Computer Science from the University of Minnesota - Twin Cities, where I graduated with honors (Summa Cum Laude) with my undergraduate honors thesis: <i>Cybersickness as Affected by Self-Motion Perception Instructions</i>.
 
@@ -19,7 +19,7 @@ I hope to pursue a Ph.D. in Computer Science focused on both research and teachi
 
 Outside of academics, I enjoy game design, writing and playing music, & cooking.
 
-# Research Interests
+## Research Interests
 
 * Computer Graphics
 * Extended Reality
@@ -27,7 +27,7 @@ Outside of academics, I enjoy game design, writing and playing music, & cooking.
 * Computer Science Education
 * Theoretical Computer Science
 
-# Academic Background
+## Academic Background
 
 * M.S. Computer Science, University of Minnesota - Twin Cities, expected May 2027
 * B.A. Computer Science, University of Minnesota - Twin Cities, May 2025, Summa Cum Laude

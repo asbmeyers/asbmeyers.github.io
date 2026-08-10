@@ -15,22 +15,22 @@ Fundamentals of Computer Graphics 1 (CSCI 5607) Project
 
 Instructor: Victoria Interrante
 
-# Project Summary
+## Project Summary
 
 I built a graphical raytracer from the ground up using C++. It can read a simple scene description from a file, then use ray casting to generate the appropriate output image. Features include basic shapes (spheres, cones, cylinders, ellipsoids, triangles), Blinn-Phong illumination, shadows, light-source attenuation, flat/smooth shading of triangles, texture mapping, normal mapping, transparency (with refraction and model visibility attenuation), and reflection. Course instructions provided mathematical frameworks to approach the implementation of each feature, but no templates or code was provided.
 
-# Personal Contributions
+## Personal Contributions
 * Designed and implemented all features
 
-# Skills Demonstrated:
+## Skills Demonstrated:
 * Computer Graphics
 * Geometric Algorithms
 * Lighting Models
 
-# Technologies Used
+## Technologies Used
 * C++
 
-# Images
+## Images
 
 Simple shapes rendered with the Blinn-Phong ilummination model
 
@@ -44,5 +44,5 @@ Simple transparent and reflective shapes
 
 ![A variety of simple shapes with transparency and reflection](https://asbmeyers.github.io/files/images/raytracer/transparency.png)
 
-# [GitHub Repository](https://github.com/asbmeyers/Graphical-Raytracer/)
+## [GitHub Repository](https://github.com/asbmeyers/Graphical-Raytracer/)
 
