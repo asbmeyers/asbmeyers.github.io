@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my current CV:
-
-[PDF Version](/files/Adam_Meyers_CV.pdf)
+# [Download Full CV](/files/Adam_Meyers_CV.pdf)
