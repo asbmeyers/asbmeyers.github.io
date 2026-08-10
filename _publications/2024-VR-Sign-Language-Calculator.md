@@ -42,7 +42,7 @@ The VR Sign Language Calculator is a virtual reality (VR) application that uses 
 * XR Hands
 * XR Interaction
 
-# Images
+## Images
 
 Inputting a hand gesture into the calculator
 

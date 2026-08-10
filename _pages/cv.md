@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-# [Download Full CV](/files/Adam_Meyers_CV.pdf)
+## [Download Full CV](/files/Adam_Meyers_CV.pdf)
