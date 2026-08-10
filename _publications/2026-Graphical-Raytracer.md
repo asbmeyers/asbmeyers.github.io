@@ -30,5 +30,19 @@ I built a graphical raytracer from the ground up using C++. It can read a simple
 # Technologies Used
 * C++
 
+# Images
+
+Simple shapes rendered with the Blinn-Phong ilummination model
+
+![A variety of simple shapes rendered using the Blinn-Phong illumination model](https://asbmeyers.github.io/files/images/raytracer/blinn_phong.png)
+
+Model of a radio with texture and normal mapping
+
+![A model of a radio with texture and normal mapping](https://asbmeyers.github.io/files/images/raytracer/radio.png)
+
+Simple transparent and reflective shapes
+
+![A variety of simple shapes with transparency and reflection](https://asbmeyers.github.io/files/images/raytracer/transparency.png)
+
 # [GitHub Repository](https://github.com/asbmeyers/Graphical-Raytracer/)
 

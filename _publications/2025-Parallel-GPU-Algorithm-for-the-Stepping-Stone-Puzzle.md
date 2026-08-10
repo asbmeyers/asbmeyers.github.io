@@ -39,3 +39,5 @@ The stepping stone puzzle features a state space that rapidly grows as the input
 
 # [Download Full Report](https://asbmeyers.github.io/files/A_Parallel_GPU_Algorithm_for_the_Stepping_Stone_Puzzle.pdf)
 
+# [GitHub Repository](https://github.com/piweiblen/PTOSS)
+

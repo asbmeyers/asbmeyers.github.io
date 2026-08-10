@@ -42,5 +42,21 @@ The VR Sign Language Calculator is a virtual reality (VR) application that uses 
 * XR Hands
 * XR Interaction
 
+# Images
+
+Inputting a hand gesture into the calculator
+
+![Inputting a hand gesture into the calculator](https://asbmeyers.github.io/files/images/calculator/InputtingGesture.png)
+
+The zero gesture with debugging information
+
+![The zero gesture with debugging information](https://asbmeyers.github.io/files/images/calculator/ZeroGesture.png)
+
+Diagrams of hand gestures used in the calculator
+
+![A diagram of numbers in ASL](https://asbmeyers.github.io/files/images/calculator/ASLNumbers.png)
+
+![A diagram of custom operator gestures](https://asbmeyers.github.io/files/images/calculator/OperatorGestures.png)
+
 # [Download Full Report](https://asbmeyers.github.io/files/Cybersickness_as_Affected_by_Self-Motion_Perception_Instructions.pdf)
 

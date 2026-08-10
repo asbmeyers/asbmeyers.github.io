@@ -2,7 +2,7 @@
 title: "Undergraduate Teaching Assistant - Formal Languages and Automata"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/formal-languages-and-automata-fall-2025
+permalink: /teaching/formal-languages-and-automata-spring-2025
 venue: "University of Minnesota - Twin Cities, Computer Science Department"
 date: 2025-01-01
 location: "Minneapolis, USA"
