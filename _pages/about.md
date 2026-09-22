@@ -15,9 +15,9 @@ I am passionate about teaching computer science and conducting computer science 
 
 I have substantial teaching experience as both a graduate and undergraduate teaching assistant at the University of Minnesota - Twin Cities, including experience in independently planning and giving lessons in discussion sections. These experiences are described in further detail under the Teaching tab.
 
-I hope to pursue a Ph.D. in Computer Science focused on both research and teaching. I am particularly interested in research involving computer graphics, extended reality, and human-centered computing, though I'm still exploring the particular research problems I would like to pursue. I also hope to expand the quality and scope of my teaching, as I have a deep interest in computer science education and developing effective ways of teaching computer science.
+I hope to pursue a Ph.D. in Computer Science focused on both research and teaching. I am particularly interested in research involving computer graphics, visualization, extended reality, and human-centered computing, though I'm still exploring the particular research problems I would like to pursue. I also hope to expand the quality and scope of my teaching, as I have a deep interest in computer science education and developing effective ways of teaching computer science.
 
-Outside of academics, I enjoy game design, writing and playing music, & cooking.
+Outside of academics, I enjoy game design, writing music, playing music, cooking, & baking.
 
 ## Research Interests
 
