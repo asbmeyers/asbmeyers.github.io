@@ -15,6 +15,6 @@ Discussion sections had two formats. Every other week, I walked students through
 
 During the other half of weeks, I walked the students through the answers to the previous week's homework problems, again using personally designed slides and diagrams.
 
-In addition, I held weekly office hours, and along with the other graduate TA, I helped coordinate the undergraduate TAs' in grading assignments and exams.
+In addition, I held weekly office hours, and I helped coordinate the undergraduate TAs' in grading assignments and exams.
 
 I scored >5.3/6.0 on all individual Student Rating of Teaching (SRT) categories at the end of the semester.
